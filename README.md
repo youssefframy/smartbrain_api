@@ -1,1 +1,1 @@
-# smart-brain-api
+# smartbrain_api
